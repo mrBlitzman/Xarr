@@ -1,0 +1,54 @@
+{
+    "product1": {
+        "img": "./statics/img/prodimg/p1.png",
+        "name": "BlackJack Special",
+        "desc": "Black Jacket Suit",
+        "id": 1
+    },
+
+    "product2": {
+        "img": "./statics/img/prodimg/p2.png",
+        "name": "Business X001",
+        "desc": "Black Business Jacket",
+        "id": 2
+    },
+
+    "product3": {
+        "img": "./statics/img/prodimg/p3.png",
+        "name": "Business X002",
+        "desc": "Grey Business Jacket",
+        "id": 3
+    },
+
+    "product4": {
+        "img": "./statics/img/prodimg/p4.png",
+        "name": "NavyBlazer",
+        "desc": "Navy Blue Jacket",
+        "id": 4
+    },
+    "product5": {
+        "img": "./statics/img/prodimg/p5.png",
+        "name": "NavyBlazer Exclusive",
+        "desc": "Navy Blue Jacket",
+        "id": 5
+    },
+    "product6": {
+        "img": "./statics/img/prodimg/p6.png",
+        "name": "Casual Grey",
+        "desc": "Grey Felt Jacket",
+        "id": 6
+    },
+    "product7": {
+        "img": "./statics/img/prodimg/p7.png",
+        "name": "Navier X",
+        "desc": "Navy Blue Jacket",
+        "id": 7
+    },
+    "product8": {
+        "img": "./statics/img/prodimg/p8.png",
+        "name": "BlitzGrey",
+        "desc": "Striped Grey Jacket",
+        "id": 8
+    }
+
+}
